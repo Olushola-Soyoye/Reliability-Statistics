@@ -7,8 +7,3 @@ This repository contains notes and examples related to:
 - Competing Risks
 - Accelerated Life Testing
 - Reliability Growth Models
-
-Related repositories:
-
-- Bayesian Statistics
-- Design of Experiments
