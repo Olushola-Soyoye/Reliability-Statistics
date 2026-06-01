@@ -1,4 +1,4 @@
-# Reliability Engineering
+# Reliability Statistics
 
 This repository contains notes, examples, and educational materials related to reliability engineering and statistical methods for product reliability assessment.
 
