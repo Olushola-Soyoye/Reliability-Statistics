@@ -1,6 +1,6 @@
 # Reliability Statistics
 
-This repository contains notes, examples, and educational materials related to reliability engineering and statistical methods for product reliability assessment.
+This repository contains notes, examples, and educational materials related to reliability statistics and statistical methods for product reliability assessment.
 
 My interest in reliability engineering has grown through supporting aerospace, defense, electronics, and manufacturing applications at W. L. Gore & Associates.
 
